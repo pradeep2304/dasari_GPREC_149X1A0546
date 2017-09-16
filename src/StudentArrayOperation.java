@@ -25,8 +25,7 @@ public interface StudentArrayOperation {
 	 * @throws IllegalArgumentException
 	 */
 	void setStudents(Student[] students);
-	{
-          
+	
 
 	/**
 	 * if index lower than 0 or index higher/equal students.length method should
