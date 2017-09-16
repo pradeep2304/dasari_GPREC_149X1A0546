@@ -1,4 +1,4 @@
-package test;
+import src.Student;
 import java.util.Date;
 
 /**
